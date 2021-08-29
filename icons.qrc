@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>file.png</file>
+        <file>folder.png</file>
+        <file>pushbutton_delete.png</file>
+        <file>pushbutton_pack.png</file>
+        <file>pushbutton_unpack.png</file>
+    </qresource>
+</RCC>
